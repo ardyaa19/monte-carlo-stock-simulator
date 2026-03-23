@@ -24,5 +24,5 @@ Future improvements:
 2. Compare multiple assets simultaneously
 
 Author:
-Aradhya Kashyap
+Aradhya Kashyap,
 UG Mathematics & Computing
